@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Interactive setups, open source software, hardware, and economics are a topics that excite me. I currently live in Mumbai and work at Curiosity Gym
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a mission to learn a new skill every 20 days.
+1. Juggling 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rituparna.matkar@gmail.com](mailto:rituparna.matkar@gmail.com)
